@@ -21,7 +21,7 @@
 
    ```bash
    git clone https://github.com/Wolfrand/components-react.git
-   cd quest-react-base
+   cd components-react
    ```
 
 2. Instale as dependências:
