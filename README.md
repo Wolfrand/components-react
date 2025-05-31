@@ -12,3 +12,39 @@
 - Atributos de eventos e classes no React
 - Uso de função como Prop
 - Prática de shorthand ao utilizar Prop nos componentes
+
+# Para ver o projeto
+
+## Instalação
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/Wolfrand/components-react.git
+   cd quest-react-base
+   ```
+
+2. Instale as dependências:
+
+   ```bash
+   npm install
+   ```
+
+## Executando o Projeto
+
+Inicie o servidor:
+
+```bash
+npm run dev
+```
+
+A porta do projeto estará disponível no terminal.
+
+## Feito com
+
+- ReactJS
+- Vite
+- JavaScript 
+- HTML5
+- CSS3
+- Clean Code
