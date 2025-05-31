@@ -1,6 +1,6 @@
 import './App.css'
-import Button from './components/button/Button'
-import StylizedText from './components/text/StylizedText'
+import Button from './components/AlertButton'
+import StylizedText from './components/StylizedText'
 
 function App() {
   return (
